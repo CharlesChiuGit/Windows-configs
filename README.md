@@ -2,7 +2,7 @@
 
 ## Download **Window Repair Toolbox(WRT)**
 
-\# U can find the download link in the _custom.xml_.
+- You can find the WRT's download link in the _custom.xml_.
 
 1. Replace the _custom.xml_ in the **Custom Tool** tab.
 2. Download whatever app u want.
