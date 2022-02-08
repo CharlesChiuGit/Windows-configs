@@ -56,10 +56,14 @@
 
 #
 
-### Setting BetterDiscord to Discord
+### Set BetterDiscord to Discord
 
 1. Watch Readme.md in [this repo](https://github.com/charleschiu2012/BetterDiscord-configs)
 
-### Setting Spicetify to Spotify
+### Set Spicetify to Spotify
 
 1. Watch Readme.md in [this repo](https://github.com/charleschiu2012/Spicetify-configs)
+
+### Set Windows Terminal color scheme
+
+1. Watch Readme.md in [this repo](https://github.com/charleschiu2012/WindowsTerminal-configs)
