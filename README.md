@@ -42,7 +42,7 @@
 
 1. Download all three package/installer from [v1 pack](https://www.dropbox.com/sh/a4n0q8csomigfwe/AAAWoSZ2XLWcw9GVKJGzV3V4a?dl=0) and [v3 installer](https://drive.google.com/file/d/16x1gAKkGkFRloRzkfQvsHNTLDONUCUT1/view)
 2. Run the v3 installer.
-3. If there are some icons that doesn't change, use following app to modify it.
+3. If there are some icons that doesn't change, use following apps to modify it.
 
    - Use **CustomizerGod** to modify **system icons**, i.e. _Control Panel_ icon or _Windows Explorer_ icon.
 
@@ -58,12 +58,16 @@
 
 ### Set BetterDiscord to Discord
 
-1. Watch Readme.md in [this repo](https://github.com/charleschiu2012/BetterDiscord-configs)
+- Watch Readme.md in [this repo](https://github.com/charleschiu2012/BetterDiscord-configs)
 
 ### Set Spicetify to Spotify
 
-1. Watch Readme.md in [this repo](https://github.com/charleschiu2012/Spicetify-configs)
+- Watch Readme.md in [this repo](https://github.com/charleschiu2012/Spicetify-configs)
 
 ### Set Windows Terminal color scheme
 
-1. Watch Readme.md in [this repo](https://github.com/charleschiu2012/WindowsTerminal-configs)
+- Watch Readme.md in [this repo](https://github.com/charleschiu2012/WindowsTerminal-configs)
+
+### Change Skins of Logseq, PotPlayer, Zotero, Steam, Win11 Cursur(dark-theme)
+
+- Watch Readme.md in [this repo](https://github.com/charleschiu2012/Apps-Skin)
