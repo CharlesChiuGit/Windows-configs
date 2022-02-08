@@ -59,3 +59,7 @@
 ### Setting BetterDiscord to Discord
 
 1. Watch Readme.md in [this repo](https://github.com/charleschiu2012/BetterDiscord-configs)
+
+### Setting Spicetify to Spotify
+
+1. Watch Readme.md in [this repo](https://github.com/charleschiu2012/Spicetify-configs)
