@@ -53,3 +53,9 @@
 &emsp;&emsp;&emsp;\*Use built-in program to modify **Start Menu & Taskbar**. Go to **C:\ProgramData\Microsoft\Windows\Start Menu\Programs** and change the icon for Start Menu. Go to **%AppData%\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar** and change the icon for Taskbar.
 
 4. Move **RecycleBinFolder** from desktop to Windows Explorer, by press **Win + R**, then type **explorer shell:RecycleBinFolder**.
+
+#
+
+### Setting BetterDiscord to Discord
+
+1. Watch Readme.md in [this repo](https://github.com/charleschiu2012/BetterDiscord-configs)
