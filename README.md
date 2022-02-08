@@ -44,12 +44,12 @@
 2. Run the v3 installer.
 3. If there are some icons that doesn't change, use following app to modify it.
 
-&emsp;&emsp;&emsp;Use **CustomizerGod** to modify **system icons**, i.e. _Control Panel_ icon or _Windows Explorer_ icon.
+&emsp;&emsp;&emsp;\*Use **CustomizerGod** to modify **system icons**, i.e. _Control Panel_ icon or _Windows Explorer_ icon.
 
-&emsp;&emsp;&emsp;Use **FileTypesMan** to modify **file icon with same file extension**. i.e. _.jpg_, _.mp4_, _.zip_
+&emsp;&emsp;&emsp;\*Use **FileTypesMan** to modify **file icon with same file extension**. i.e. _.jpg_, _.mp4_, _.zip_
 
-&emsp;&emsp;&emsp;Use **TileIconifier** to modify **Live Tiles Logo**.
+&emsp;&emsp;&emsp;\*Use **TileIconifier** to modify **Live Tiles Logo**.
 
-&emsp;&emsp;&emsp;Use built-in program to modify **Start Menu & Taskbar**. Go to **C:\ProgramData\Microsoft\Windows\Start Menu\Programs** and change the icon for Start Menu. Go to **%AppData%\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar** and change the icon for Taskbar.
+&emsp;&emsp;&emsp;\*Use built-in program to modify **Start Menu & Taskbar**. Go to **C:\ProgramData\Microsoft\Windows\Start Menu\Programs** and change the icon for Start Menu. Go to **%AppData%\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar** and change the icon for Taskbar.
 
 4. Move **RecycleBinFolder** from desktop to Windows Explorer, by press **Win + R**, then type **explorer shell:RecycleBinFolder**.
