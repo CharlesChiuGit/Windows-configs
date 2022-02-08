@@ -8,8 +8,6 @@
 2. Download whatever app u want.
 3. Edit the _custom.xml_ to add/remove the app as u like.
 
-#
-
 ## UI setups
 
 ### Win10 theme
@@ -26,9 +24,13 @@
 5. Go to **Settings > Personalization > Themes** to apply the theme.
 6. If u encounter some bug, please refer to [【密技】徹底爆改!! win10 系統 如同 macOS 舒適的體驗!](https://forum.gamer.com.tw/C.php?bsn=60030&snA=525114), the tips inside may help.
 
+#
+
 ### Win11 theme
 
 1. Follow the extra steps in [Installing Windows Themes (UPDATED)](https://www.deviantart.com/niivu/art/Installing-Windows-Themes-UPDATED-708835586).
+
+#
 
 ### Icon replacement
 
