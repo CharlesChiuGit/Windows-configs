@@ -7,12 +7,6 @@
 			"Packages" : 
 			[
 				{
-					"PackageIdentifier" : "OpenWhisperSystems.Signal"
-				},
-				{
-					"PackageIdentifier" : "Cisco.CiscoWebexMeetings"
-				},
-				{
 					"PackageIdentifier" : "Discord.Discord"
 				},
 				{
@@ -25,9 +19,6 @@
 					"PackageIdentifier" : "Git.Git"
 				},
 				{
-					"PackageIdentifier" : "LINE.LINE"
-				},
-				{
 					"PackageIdentifier" : "Logitech.Options"
 				},
 				{
@@ -35,12 +26,6 @@
 				},
 				{
 					"PackageIdentifier" : "Logseq.Logseq"
-				},
-				{
-					"PackageIdentifier" : "CNRISTI.MeshLab"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.Edge"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.WindowsTerminal"
@@ -79,15 +64,6 @@
 					"PackageIdentifier" : "Zotero.Zotero"
 				},
 				{
-					"PackageIdentifier" : "XMind.XMind"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.WindowsPCHealthCheck"
-				},
-				{
-					"PackageIdentifier" : "OpenVPNTechnologies.OpenVPNConnect"
-				},
-				{
 					"PackageIdentifier" : "Apple.iTunes"
 				},
 				{
@@ -104,9 +80,6 @@
 				},
 				{
 					"PackageIdentifier" : "AdGuard.AdGuardVPN"
-				},
-				{
-					"PackageIdentifier" : "Telegram.TelegramDesktop"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.VC++2008Redist-x64"
@@ -140,9 +113,6 @@
 				},
 				{
 					"PackageIdentifier" : "Microsoft.UpdateAssistant"
-				},
-				{
-					"PackageIdentifier" : "msys2.msys2"
 				},
 				{
 					"PackageIdentifier" : "Microsoft.dotnetRuntime.5-x64"
