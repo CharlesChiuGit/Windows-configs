@@ -1,12 +1,16 @@
 # Windows-configs
 
-## Download **Window Repair Toolbox(WRT)**
+## Install Apps from WinGet
+
+- Watch Readme.md in [this subfolder](https://github.com/charleschiu2012/Windows-configs/tree/main/WinGet_Setup).
+
+## Download other apps unavailable in winget via Window Repair Toolbox(WRT)
 
 - You can find the WRT's download link in the _custom.xml_.
 
-1. Replace the _custom.xml_ in the **Custom Tool** tab.
-2. Download whatever app u want.
-3. Edit the _custom.xml_ to add/remove the app as u like.
+1. Replace the _custom.xml_ in the **Custom Tool** tab, and press the **Refresh list** buttom.
+2. Edit the _custom.xml_ to add/remove the app as u like.
+3. Download whatever app u want.
 
 ## UI setups
 

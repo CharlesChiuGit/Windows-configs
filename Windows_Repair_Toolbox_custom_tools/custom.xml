@@ -23,35 +23,15 @@ INSTRUCTIONS (end)-->
 		<!-- LINKS title="" link="" exe=""/ -->
 
 		<LINKS title="Windows Repair Toolbox" link="https://windows-repair-toolbox.com/files/Windows_Repair_Toolbox.zip" exe="Windows_Repair_Toolbox.zip"/>
-		<LINKS title="Visual Studio Code" link="https://az764295.vo.msecnd.net/stable/5554b12acf27056905806867f251c859323ff7e9/VSCodeUserSetup-x64-1.64.0.exe" exe="VSCodeUserSetup-x64-1.64.0.exe"/>
-		<LINKS title="Foxit PDF Reader" link="https://cdn01.foxitsoftware.com/product/reader/desktop/win/11.1.0/FoxitPDFReader111_TC_Setup.exe" exe="FoxitPDFReader111_TC_Setup.exe"/>
 		<LINKS title="Brave Browser" link="https://referrals.brave.com/latest/BraveBrowserSetup.exe" exe="BraveBrowserSetup.exe"/>
-		<LINKS title="Discord" link="https://dl.discordapp.net/distro/app/stable/win/x86/1.0.9003/DiscordSetup.exe" exe="DiscordSetup.exe"/>
-		<LINKS title="FileZilla" link="https://delivery2.filecroco.com/kits_6/FileZilla_3.57.0_win64-setup.exe" exe="FileZilla_3.57.0_win64-setup.exe"/>
-		<LINKS title="Logitech Options" link="https://download01.logi.com/web/ftp/pub/techsupport/options/options_installer.exe" exe="options_installer.exe"/>
-		<LINKS title="Logseq" link="https://github.com/logseq/logseq/releases/download/nightly/Logseq-win-x64-0.5.9+nightly.20220129.exe" exe="Logseq-win-x64-0.5.9+nightly.20220129.exe"/>
 		<LINKS title="oCam" link="https://raw.githubusercontent.com/ohsoft/archive/master/ocam/2021060901/oCam_v520.0.exe?ohsoft=best" exe="oCam_v520.0.exe"/>
-		<LINKS title="Popcorn Time" link="https://github.com/popcorn-official/popcorn-desktop/releases/download/v0.4.6/Popcorn-Time-0.4.6-win64-Setup.exe" exe="Popcorn-Time-0.4.6-win64-Setup.exe"/>
-		<LINKS title="PotPlayer" link="https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe" exe="PotPlayerSetup64.exe"/>
 		<LINKS title="Pulse Secure" link="https://it.nycu.edu.tw/download/3978/?version=64bit" exe="ps-pulse-win-9.1r13.1-b12971-64bit-installer.msi"/>
-		<LINKS title="QTranslate" link="https://qtranslate1.appspot.com/QTranslate.6.9.0.exe" exe="QTranslate.6.9.0.exe"/>
-		<LINKS title="Steam" link="https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe" exe="SteamSetup.exe"/>
 		<LINKS title="Sublime Text" link="https://download.sublimetext.com/sublime_text_build_4126_x64_setup.exe" exe="sublime_text_build_4126_x64_setup.exe"/>
-		<LINKS title="Spotify" link="https://download.scdn.co/SpotifySetup.exe" exe="SpotifySetup.exe"/>
-		<LINKS title="Telegram Desktop" link="https://updates.tdesktop.com/tx64/tsetup-x64.3.5.1.exe" exe="tsetup-x64.3.5.1.exe"/>
-		<LINKS title="VLC Media Player" link="https://free.nchc.org.tw/vlc/vlc/3.0.16/win64/vlc-3.0.16-win64.exe" exe="vlc-3.0.16-win64.exe"/>
 		<LINKS title="UltraUXThemePatcher" link="https://delivery2.filecroco.com/kits_6/UltraUXThemePatcher_4.3.2.exe" exe="UltraUXThemePatcher_4.3.2.exe"/>
 		<LINKS title="uTorrent" link="https://download-new.utorrent.com/endpoint/utweb/track/stable/os/win" exe="utweb_installer.exe"/>
-		<LINKS title="WinRAR" link="https://www.win-rar.com/fileadmin/winrar-versions/winrar-x64-610tc.exe" exe="winrar-x64-610tc.exe"/>
-		<LINKS title="Zotero" link="https://download.zotero.org/client/release/5.0.96.3/Zotero-5.0.96.3_setup.exe" exe="Zotero-5.0.96.3_setup.exe"/>
-		<LINKS title="Adguard" link="https://download.adguard.com/d/18672/adguardInstaller.exe" exe="adguardInstaller.exe"/>
-		<LINKS title="Adguard VPN" link="https://download.adguard-vpn.com/d/32362/adguardVPNInstaller.exe" exe="adguardVPNInstaller.exe"/>
 		<LINKS title="Geek Uninstaller" link="https://geekuninstaller.com/geek.zip" exe="geek.zip"/>
-		<LINKS title="Google Drive Desktop" link="https://dl.google.com/drive-file-stream/GoogleDriveSetup.exe" exe="GoogleDriveSetup.exe"/>
 		<LINKS title="MegaDownloader" link="https://www58.zippyshare.com/d/DJN0AvKs/21497/MegaDownloader_v1.8_bin.rar" exe="MegaDownloader_v1.8_bin.rar"/>
-		<LINKS title="MouseWithoutBorders" link="https://download.microsoft.com/download/6/5/8/658AFC4C-DC02-4CB8-839D-10253E89FFF7/MouseWithoutBordersSetup.msi" exe="MouseWithoutBordersSetup.msi"/>
 		<LINKS title="FiraCode Nerd Font" link="https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/FiraCode.zip" exe="FiraCode.zip"/>
-		<LINKS title="TreeSize" link="https://downloads.jam-software.de/treesize_free/TreeSizeFreeSetup.exe" exe="TreeSizeFreeSetup.exe"/>
 		<LINKS title="TradingView" link="https://tvd-packages.tradingview.com/stable/latest/win32/TradingView.appinstaller" exe="TradingView.appinstaller"/>
 		<LINKS title="ffmpeg" link="https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-2022-02-07-git-04cc7a5548-full_build.7z" exe="ffmpeg-2022-02-07-git-04cc7a5548-full_build.7z"/>
 		<LINKS title="ProcessExplorer" link="https://download.sysinternals.com/files/ProcessExplorer.zip" exe="ProcessExplorer.zip"/>
