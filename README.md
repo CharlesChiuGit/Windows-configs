@@ -60,6 +60,17 @@
 
 #
 
+### Check Startup Apps
+
+- In **Registry Editor**:
+  - Computer\HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+  - Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run
+- In Folder:
+  - C:\Users\\{Username}\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+  - C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
+
+#
+
 ### Set BetterDiscord to Discord
 
 - Watch Readme.md in [this repo](https://github.com/charleschiu2012/BetterDiscord-configs)
